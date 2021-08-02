@@ -1,47 +1,47 @@
-NAME_2,POBTOT
-Abasolo,92040
-Acámbaro,108697
-Allende,174615
-Apaseo el Alto,63392
-Apaseo el Grande,117883
-Atarjea,5296
-Celaya,521169
-Comonfort,82216
-Coroneo,11083
-Cortazar,97928
-Cuerámaro,30857
-Doctor Mora,27390
-Dolores Hidalgo,163038
-Guanajuato,194500
-Huanímaro,21128
-Irapuato,592953
-Jaral del Progreso,38782
-Jerécuaro,49517
-León,1721215
-Manuel Doblado,41240
-Moroleón,47261
-Ocampo,26383
-Pénjamo,154960
-Pueblo Nuevo,12403
-Purísima del Rincón,83842
-Romita,65766
-Salamanca,273417
-Salvatierra,94126
-San Diego de la Unión,41054
-San Felipe,119793
-San Francisco del Rincón,130871
-San José Iturbide,89558
-San Luis de la Paz,128536
-Santa Catarina,5723
-Santa Cruz de Juventino Rosas,82340
-Santiago Maravatío,6714
-Silao,203556
-Tarandacuao,11304
-Tarimoro,35905
-Tierra Blanca,20007
-Uriangato,61494
-Valle de Santiago,150054
-Victoria,21253
-Villagrán,65791
-Xichú,11143
-Yuriria,68741
+id,POBTOT
+1,92040
+2,108697
+3,174615
+4,63392
+5,117883
+6,5296
+7,521169
+8,82216
+9,11083
+10,97928
+11,30857
+12,27390
+13,163038
+14,194500
+15,21128
+16,592953
+17,38782
+18,49517
+19,1721215
+20,41240
+21,47261
+22,26383
+23,154960
+24,12403
+25,83842
+26,65766
+27,273417
+28,94126
+29,41054
+30,119793
+31,130871
+32,89558
+33,128536
+34,5723
+35,82340
+36,6714
+37,203556
+38,11304
+39,35905
+40,20007
+41,61494
+42,150054
+43,21253
+44,65791
+45,11143
+46,68741
